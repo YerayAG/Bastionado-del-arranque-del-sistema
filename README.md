@@ -1,1 +1,0 @@
-# Bastionado-del-arranque-del-sistema
