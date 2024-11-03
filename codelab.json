@@ -1,0 +1,24 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2024-11-01T17:54:02+01:00",
+  "id": "p2.b.yag",
+  "duration": 0,
+  "title": "Proyecto 1.2: Bastionado del Arranque de Sistemas Debian",
+  "summary": "Proyecto 1: Bastionado del arranque del sistema",
+  "source": "codelab.md",
+  "theme": "",
+  "status": [
+    "draft"
+  ],
+  "category": [
+    "arraquesegurowindows",
+    "arranquesegurolinux"
+  ],
+  "tags": [
+    "web"
+  ],
+  "url": "p2.b.yag"
+}
